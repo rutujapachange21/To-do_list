@@ -61,13 +61,6 @@ cd To-do_list
 # On Windows
 start index.html
 
-# On macOS
-open index.html
-
-# On Linux
-xdg-open index.html
-
-
 ### Method 2: Download ZIP
 
 1. Go to [https://github.com/rutujapachange21/To-do_list](https://github.com/rutujapachange21/To-do_list)
